@@ -10,11 +10,11 @@ const sr = ScrollReveal({
   reset: true
 });
 
-ScrollReveal().reveal('.header p', { delay: 200 });
-ScrollReveal().reveal('.header h3', { delay: 400 });
+ScrollReveal().reveal('.header p', { delay: 100 });
+ScrollReveal().reveal('.header h3', { delay: 100 });
 
-ScrollReveal().reveal('#home .image', { delay: 200 });
-ScrollReveal().reveal('#home .text', { delay: 600 });
+ScrollReveal().reveal('#home .image', { delay: 120 });
+ScrollReveal().reveal('#home .text', { delay: 400 });
 
 ScrollReveal().reveal('#spotlight .text', { delay: 600 });
 
